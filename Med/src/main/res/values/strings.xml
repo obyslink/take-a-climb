@@ -165,6 +165,16 @@
     <string name="database_file_location" translatable="false">%1$s%2$s/%2$s-%3$s.db</string>
     <string name="ml" translatable="false">ml</string>
     <string name="not_available_short" translatable="false">N/A</string>
+    <string name="text_number">Phone number</string>
+    <string name="text_forgetpass">Forgot Password?</string>
+    <string name="text_passs">Password</string>
+    <string name="text_email">Email</string>
+    <string name="text_signin">Sign in</string>
+    <string name="dialog_logout_text">Are you sure you want to log out?</string>
+    <string name="dialog_logout_caps">LOGOUT</string>
+    <string name="text_fname_caps">First name</string>
+    <string name="text_lname_caps">Last name</string>
+    <string name="text_continue">Continue</string>
 
     <string-array name="calendar_pickup_reminder_values">
         <item>@string/calendar_pickup_reminder_one_day_before</item>
